@@ -1,7 +1,3 @@
-На тесте 
-
-
-
 
 
 <img width="1248" height="832" alt="image" src="https://github.com/user-attachments/assets/d06abfc5-d50d-4ea3-bf53-d4f2482b830e" />
